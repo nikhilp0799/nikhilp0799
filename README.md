@@ -1,5 +1,10 @@
 # 💫 About Me:
-🛠️ I’m currently working on building real alpha-generating trading systems and RAG pipelines using LangChain, OpenAI, and Streamlit<br>🤝 I’m looking to collaborate on AI Agent systems, data platforms, and research-driven ML projects<br>🙋 I’m looking for help with deploying multi-agent architectures and optimizing transformer models<br>🌱 I’m currently learning about LangGraph, agentic workflows, and time-series forecasting in finance<br>💬 Ask me about building pipelines without relying on APIs or deploying ML systems on the cloud<br>⚡ Fun fact: I once reverse-engineered a paper's simulation from scratch for perfect visual and numerical replication 😄
+🛠️ I specialize in building AI systems across domains — from generative modeling and representation learning to quantitative strategy research. Currently, I’m developing a portfolio strategy simulator that integrates alpha signal generation, dynamic capital allocation, and backtesting frameworks to evaluate financial hypotheses in real time.
+🤝 I’m looking to collaborate on AI-first products, research-driven automation, and decision intelligence systems
+🙋 I’m looking for help with optimizing modular ML workflows and orchestrating multi-agent infrastructure
+🌱 I’m currently exploring LangGraph, agentic systems, and explainable AI in finance and healthcare
+💬 Ask me about training generative models (GANs, VAEs), building from-scratch ML pipelines, or deploying research prototypes end-to-end
+⚡ Fun fact: I recreated a complex simulation from a published paper, matching both its numerical dynamics and visual fidelity
 
 
 ## 🌐 Socials:
