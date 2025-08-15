@@ -3,7 +3,7 @@
 🤝 I’m looking to collaborate on AI-first products, research-driven automation, and decision intelligence systems
 🙋 I’m looking for help with optimizing modular ML workflows and orchestrating multi-agent infrastructure
 🌱 I’m currently exploring LangGraph, agentic systems, and explainable AI in finance and healthcare
-💬 Ask me about training generative models (GANs, VAEs), building from-scratch ML pipelines, or deploying research prototypes end-to-end
+💬 Ask me about training generative models, building from-scratch ML pipelines, or deploying research prototypes end-to-end
 ⚡ Fun fact: I recreated a complex simulation from a published paper, matching both its numerical dynamics and visual fidelity
 
 
